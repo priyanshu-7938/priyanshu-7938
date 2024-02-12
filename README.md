@@ -7,6 +7,7 @@ I'm blockchain Enthusiast
 I am all about Zero Knowledge
 
 * 🌍  I'm based in Ahembdabad, India
+* 🌳  My LinkTree: https://linktr.ee/priyanSHOE
 * ✉️  You can contact me at [priyanshoe.official@gmail.com](mailto:priyanshoe.official@gmail.com)
 * 🧠  I'm learning Backend currently.....
 * 🤝  I'm open to collaborating on any projects involving ZERO-Knowledge
