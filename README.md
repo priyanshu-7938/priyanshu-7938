@@ -9,6 +9,7 @@ I am all about Zero Knowledge
 * 🌍  I'm based in Ahembdabad, India
 * 🌳  My LinkTree: https://linktr.ee/priyanSHOE
 * ✉️  You can contact me at [priyanshoe.official@gmail.com](mailto:priyanshoe.official@gmail.com)
+* 📽️  Projects: @ [_here](https://flax-algebra-33d.notion.site/Hi-I-am-Priyanshu-Soni-1212ed17066b80268402ef7dbd7da89a)
 * 🧠  I'm learning Backend currently.....
 * 🤝  I'm open to collaborating on any projects involving ZERO-Knowledge
 * ⚡  Secretly I'm Bo-jack Horsemen.
