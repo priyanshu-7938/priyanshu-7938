@@ -1,17 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priyanshu soni
 ======================================================================================================================================
 
-I'm blockchain Enthusiast
+I'm Blockchain Developer
 -------------------------
 
-I am all about Zero Knowledge
+I am all about chains....
 
-* 🌍  I'm based in Ahembdabad, India
 * 🌳  My LinkTree: https://linktr.ee/priyanSHOE
 * ✉️  You can contact me at [priyanshoe.official@gmail.com](mailto:priyanshoe.official@gmail.com)
 * 📽️  Projects: @ [_here](https://flax-algebra-33d.notion.site/Hi-I-am-Priyanshu-Soni-1212ed17066b80268402ef7dbd7da89a)
-* 🧠  I'm learning Backend currently.....
-* 🤝  I'm open to collaborating on any projects involving ZERO-Knowledge
+* 🧠  I'm learning Private chain Deployment
+* 🤝  I'm open to collaborating on any projects involving contracts, chains and private infra.
 * ⚡  Secretly I'm Bo-jack Horsemen.
 
 ### Skills
